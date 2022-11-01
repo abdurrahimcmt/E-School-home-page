@@ -1,0 +1,51 @@
+body{
+    font-family: Poppins;
+}
+.titleOnlineCourse{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+}
+.titleTestimonial{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #000000;
+}
+.common-bg{
+   background-color: #e3f2fd;
+}
+.navbar .navbar-nav .nav-item a{
+    font-weight: 500;
+    color: black;
+    padding-right: 30px;
+}
+.btncommonstyle{
+    border-radius: 20px;
+    padding: 5px 25px;
+}
+#category .commonCard{
+    border-radius: 10px;
+    background-color:#F8FFFB;
+    height: 270px;
+}
+#category .commonCard:hover{
+    background: white;
+    box-shadow: 1px 1px 10px 10px lightgrey;
+    
+}
+.onlineCourseCard{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+footer{
+    color: white;
+    background-color: #282531;
+}
+.courses p{
+    line-height: 0.5;
+}
+
